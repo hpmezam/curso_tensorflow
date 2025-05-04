@@ -1,4 +1,4 @@
-<h1 align='center'>Curso de Tensorflow</h1>
+<h1 align='center'>Tensorflow Course</h1>
 <h3 align='center'>Software Engineer | AI, ML, DL & Computer Vision</h3>
 <p align="center">
   <!-- Lenguajes y Frameworks -->
